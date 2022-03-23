@@ -384,8 +384,9 @@ template {
   text-decoration: underline;
 }
 .ns-menu__item:hover {
+  color: gold;
+  background: silver;
   text-decoration: underline;
-  color: #665600;
 }
 .ns-menu__item:active {
   text-decoration: underline;
